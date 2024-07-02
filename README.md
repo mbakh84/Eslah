@@ -1,1 +1,1 @@
-calculate the salary by enterd year and base salary and export an .XLSX file ; (made for Social Security Organization IRI)
+this program will calculate the salary by enterd year and base salary and export a .XLSX file ; (made for Social Security Organization IRI)
